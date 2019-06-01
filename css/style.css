@@ -1,0 +1,111 @@
+*{
+
+    padding:0;
+    border:0;
+    box-sizing: border-box;
+}
+body{
+  /*  font-family: Helvetica, Arial,  sans-serif, Tahoma;*/
+    margin:0;
+}
+header{
+    background-color:#053C5E;
+    background-color:#00204A;
+
+    /* background-color:#032A33; */
+    /* background-color:#872341; */
+    /* background-color:#18587A; */
+    text-align: center;
+    padding: 16px;
+
+}
+header .h1-header{
+    display: inline-block;
+    width: 600px;
+    color: #fff;
+    font-weight: bold;
+   
+}
+header .p2-header{
+    display: inline-block;
+    width: 600px;
+    color: #fff;
+    font-weight: 200;
+   
+}
+
+.div1{
+    /* background-color: #007991; */
+    /* background-color: #1F7A8C; */
+    /* background-color: #A7EFE9; */
+    /* background-color: #18587A; */
+    /* background-color: #6BC5D2; */
+    /* background-color: #1FAD9F; */
+    background-color: #33CCCC;
+    background-color: #A4E5D9;
+    /* background-color: #11CBD7; */
+    /* background-color: #C6F1E7; */
+    /* background-color: #7FDFD4; */
+    /* color: #fff; */
+    text-align: center;
+    padding: 10px;
+}
+
+#education div {
+    width: 960px;
+    margin: 0 auto;
+}
+#education h3{
+    font-size: 36px;
+    font-weight: 700;
+}
+#education dt{
+    font-size:22px;
+    text-transform:uppercase;
+    margin-bottom: 12px;
+    margin-top: 36px;
+}
+
+
+ .experience{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.certificates{
+    margin: 50px auto 20px auto;
+    padding: 20px;
+   
+}
+#education .certificates a{
+    font-size: 18px;
+    color:#09f;
+    padding: 15px 5px ;
+    margin: 15px;
+ 
+   
+
+  
+}
+
+.education-text{
+    display: inline-block;
+    width: 68%;
+    
+}
+
+.me-picture{
+    display: inline-block;
+    width: 30%;
+   
+}
+
+
+.circle {
+    border-radius:1200px;
+    width:100%;
+    height:100%;
+}
+.normal {
+    font-weight:normal;
+    font-size:19px;
+}
